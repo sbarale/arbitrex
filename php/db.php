@@ -1,7 +1,7 @@
 <?php
 
 $user = "tdenisenko";
-$pwd = "davheeD1!";
+$pwd = "davheeD1";
 $host = "tdenisenkocom1.ipagemysql.com";
 $db = "exchangerates";
 
